@@ -18,7 +18,8 @@ def progressbar(x, y):
     sys.stdout.write(f'[{bar}] {percents}% {filesize}\r')
     sys.stdout.flush()
 def ssh_data_send(wdr):
-    with pysftp.Connection('172.16.16.58', username='iaodata', password='iao-hanle-DatA',port=220) as sftp:
+    #put ssh creds 
+    with pysftp.Connection() as sftp:
         wd = wdr
         if wd not in sftp.listdir('/C/xampp3/htdocs/IAO/sky/DIMM/'):
             sftp.mkdir(os.path.join('/C/xampp3/htdocs/IAO/sky/DIMM/', wd))
