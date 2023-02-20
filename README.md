@@ -7,7 +7,7 @@ A fully automated DIMM seeing monitor is developed at the Indian Astronomical Ob
 <p align="center">
   <a href="" rel="noopener">
 
- <img width=200px height=200px src="![logo](https://user-images.githubusercontent.com/58334054/220018799-b195dfab-c431-4291-b9d3-29965c3a49dd.png)" alt="Bot logo"></a>
+ <img width=200px height=200px src="https://user-images.githubusercontent.com/58334054/220018799-b195dfab-c431-4291-b9d3-29965c3a49dd.png" alt="Bot logo"></a>
 </p>
 
 <h3 align="center">Bot Name</h3>
