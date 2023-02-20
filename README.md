@@ -29,8 +29,8 @@ By using a turbulence model to determine the phase structure function, we can ev
 
 ## 💭 How it works <a name = "working"></a>
 
-analyze_cube.py --
-ast_utils.rb -- 
+analyze_cube.py -- \n
+ast_utils.rb --  \n
 binutils.py -- binary data procedures
 db_insert.py -- Inster dimm results into Sdb
 dimm_plots.py -- Old tasks for plotting results
