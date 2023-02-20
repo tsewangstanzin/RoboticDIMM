@@ -34,6 +34,7 @@ CMOS camera API/SDK:
 > https://thinklucid.com/arena-software-development-kit/
 
 ## 💭 Usage <a name = "usage"></a>
+
 The entire software is written in Python 3.6 <br>
 If you are interested in validating data, download image cube provided in /fitscube folder and run:
 ```
@@ -44,6 +45,7 @@ The codes in <a href=" https://github.com/tsewangstanzin/RoboticDIMM/tree/main/o
 <p align="center">
     <img width="400" src="https://user-images.githubusercontent.com/58334054/220026194-015d937c-adbf-4e22-80ca-a52bc4fe3f06.png" alt="Material Bread logo">
 </p>
+
 ```
 dimm.py ---- Only script that runs all the time. Responsible for overall observation conduct. Imports other scripts given below:
 
@@ -56,6 +58,7 @@ seeing_analysis.py ---- Exploit Fried parameters and Tokovin et al. DIMM model/p
 read_AWS.py ---- Read live weather 
 auto_plotter_transfer.py ---- Plot night seeing
 slack_bot.py ----  Upload plot and post observation and observing condition update on Slack
+
 ```
 
 ## ✍️  Author <a name = "author"></a>
