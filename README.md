@@ -71,6 +71,10 @@ Tsewang Stanzin [Indian Astronomical Observatory, Hanle, India]
 
 </p>
 
+
+
+[embed]https://github.com/tsewangstanzin/RoboticDIMM/files/10782453/Tsewang_ASI2023_106.pdf[/embed]
+
 ## 🎉 References <a name = "acknowledgement"></a>
 + https://www.meade.com/downloadEntityFile/assets/product_files/instructions/LX200GPS_manual.pdf
 + http://www.company7.com/library/meade/LX200CommandSet.pdf
