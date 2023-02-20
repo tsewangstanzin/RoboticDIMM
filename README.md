@@ -58,7 +58,7 @@ auto_plotter_transfer.py ---- Plot night seeing
 slack_bot.py ----  Upload plot and post observation and observing condition update on Slack
 
 ```
-
+..
 
 ## ✍️  Author <a name = "author"></a>
 
