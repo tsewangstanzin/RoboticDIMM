@@ -52,22 +52,12 @@ If you are interested in validating data, download image cube provided in /fitsc
 ```
 offline_seeing_analysis.py ---- Exploit the centroid algorithm, compute seeing and save log in DIMManalysis folder
 ```
-### Example:
-
+Dependencies can be installed with:
 > python3 offline_seeing_analysis.py
 
-**Definition:**
 The first part, i.e. "!dict" **is not** case sensitive.
 SDK: https://thinklucid.com/arena-software-development-kit/
-The bot will then give you the Oxford Dictionary (or Urban Dictionary; if the word does not exist in the Oxford Dictionary) definition of the word as a comment reply.
-Baby, dont hurt me~
-Dont hurt me~ no more.
 
-**Example:**
-
-Dude1: Bruh, what is love?
-Dude2: Baby, dont hurt me, dont hurt me- no more!
-Dude1: dafuq?
 
 **Source:** https://www.urbandictionary.com/define.php?term=what%20is%20love
 
