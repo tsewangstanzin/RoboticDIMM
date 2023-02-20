@@ -1,5 +1,8 @@
+<p align="center">
+    <img width="200" src="https://user-images.githubusercontent.com/58334054/220020199-4ae158cd-f7ad-4377-8ea9-7cbd01e92eec.png" alt="Material Bread logo">
+</p>
 <div style="text-align: center;">
-  <img src="https://user-images.githubusercontent.com/58334054/220020199-4ae158cd-f7ad-4377-8ea9-7cbd01e92eec.png" alt="Sky" style="width: 350px; height: 350px;">
+  <img src="" alt="Sky" style="width: 350px; height: 350px;">
 </div>
 
  <img width=200px height=300px class="center" src="" alt="Bot logo">
