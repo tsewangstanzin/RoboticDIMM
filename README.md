@@ -59,7 +59,7 @@ The bot will then give you the Oxford Dictionary (or Urban Dictionary; if the wo
 
 ### Example:
 
-> !dict what is love
+> python3 offline_seeing_analysis.py
 
 **Definition:**
 
