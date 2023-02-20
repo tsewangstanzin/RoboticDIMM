@@ -21,7 +21,7 @@
 + [Authors](#authors)
 + [Acknowledgments](#acknowledgement)
 
-## 🧐 About <a name = "about"></a>
+## ✍️ About <a name = "about"></a>
 The turbulent atmospheric layers cause beam propagation disturbances that degrade the quality of astronomical images
 The DIMM principle involves using the same telescope to produce twin images of a star via two entrance pupils separated by a distance. The differential method measures the angular differences over the two small pupils. 
 By using a turbulence model to determine the phase structure function, we can evaluate the longitudinal and transverse variances (parallel and perpendicular to the aperture alignment) of differential image motion
@@ -106,7 +106,7 @@ To see an example project on how to deploy your bot, please see my own configura
 + [PRAW](https://praw.readthedocs.io/en/latest/) - Python Reddit API Wrapper
 + [Heroku](https://www.heroku.com/) - SaaS hosting platform
 
-## ✍️ Authors <a name = "authors"></a>
+##  Authors <a name = "authors"></a>
 + [@kylelobo](https://github.com/kylelobo) - Idea & Initial work
 
 See also the list of [contributors](https://github.com/kylelobo/The-Documentation-Compendium/contributors) who participated in this project.
