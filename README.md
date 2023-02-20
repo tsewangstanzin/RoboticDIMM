@@ -35,13 +35,13 @@ The codes in <a href=" https://github.com/tsewangstanzin/RoboticDIMM/tree/main/o
 
 
 ```
-dimm.py ---- Only script that runs all the time. Responsible for overall observation conduct. Imports other scripts given below:
+**dimm.py ---- Only script that runs all the time. Responsible for overall observation conduct. Imports other scripts given below:**
 
 power_control.py ---- Control power through an Arduino based power controller
 best_stars.py ---- Select appropriate star from starcatalog.lst
 meade_tel_control.py ---- Control Meade telescope
 webcam_pointing_v3.py ---- Compensate poor pointing by a webcam+100mm lens piggybacked
-grabcube.py ---- Grab cube image at fast rate from Lucid Vison Camera. SDK: https://thinklucid.com/arena-software-development-kit/
+grabcube.py ---- Grab cube image at fast rate from Lucid Vison CMOS Camera. SDK: https://thinklucid.com/arena-software-development-kit/
 seeing_analysis.py ---- Exploit Fried parameters and Tokovin et al. DIMM model/paramaters and compute seeing
 read_AWS.py ---- Read live weather 
 auto_plotter_transfer.py ---- Plot night seeing
