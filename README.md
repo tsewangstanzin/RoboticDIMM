@@ -1,24 +1,15 @@
 <p align="center">
   <a href="" rel="noopener">
 
- <img width=200px height=300px src="https://user-images.githubusercontent.com/58334054/220018799-b195dfab-c431-4291-b9d3-29965c3a49dd.png" alt="Bot logo"></a>
+
+ <img width=200px height=300px src="https://user-images.githubusercontent.com/58334054/220020199-4ae158cd-f7ad-4377-8ea9-7cbd01e92eec.png" alt="Bot logo"></a>
 </p>
 
 <h3 align="center">Robotic DIMM</h3>
 
-<div align="center">
-
-  [![Status](https://img.shields.io/badge/status-active-success.svg)]()
-  [![Platform](https://img.shields.io/badge/platform-reddit-orange.svg)](https://www.reddit.com/user/Wordbook_Bot)
-  [![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/issues)
-  [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/pulls)
-  [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
-
-</div>
-
 ---
 
-<p align="center"> 🤖 A fully automated DIMM seeing monitor is developed at the Indian Astronomical Observatory. It employs a 12 inch Meade telescope, a 72fps Lucid CMOS camera and a webcam based pointing setup. For automated/robotic operation, python scripts are running on an Adlink embedded computer.
+<p align="center"> 🤖 A fully automated Differential Image Motion Monitor(DIMM) seeing monitor is developed at the Indian Astronomical Observatory,Hanle,India. It employs a 12 inch Meade telescope, a 52fps CMOS camera and a webcam based pointing setup. For automated/robotic operation, python scripts are running on an Adlink embedded computer.
     <br> 
 </p>
 
