@@ -28,7 +28,7 @@ The DIMM principle involves using the same telescope to produce twin images of a
 By using a turbulence model to determine the phase structure function, we can evaluate the longitudinal and transverse variances (parallel and perpendicular to the aperture alignment) of differential image motion
 
 ## 💭 How it works <a name = "working"></a>
-![Working](https://media.giphy.com/media/20NLMBm0BkUOwNljwv/giphy.gif)
+
 
 The bot first extracts the word from the comment and then fetches word definitions, part of speech, example and source from the Oxford Dictionary API.
 
@@ -101,6 +101,7 @@ until finished
 End with an example of getting some data out of the system or using it for a little demo.
 
 ## 🚀 Deploying your own bot <a name = "deployment"></a>
+![Working](https://media.giphy.com/media/20NLMBm0BkUOwNljwv/giphy.gif)
 To see an example project on how to deploy your bot, please see my own configuration:
 
 + **Heroku**: https://github.com/kylelobo/Reddit-Bot#deploying_the_bot
