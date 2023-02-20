@@ -48,10 +48,9 @@ auto_plotter_transfer.py ---- Plot night seeing
 slack_bot.py ----  Upload plot and post observation and observing condition update on Slack
 
 ```
-If you are interested in validating data, download image cube provided in /fitscube folder and run :
+If you are interested in validating data, download image cube provided in /fitscube folder and run:
 ```
-offline_seeing_analysis.py ---- Exploits the centroid algorithm, computes seeing and save log in DIMManalaysis folder
-
+offline_seeing_analysis.py ---- Exploit the centroid algorithm, compute seeing and save log in DIMManalysis folder
 ```
 
 The first part, i.e. "!dict" **is not** case sensitive.
