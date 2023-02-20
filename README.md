@@ -36,7 +36,16 @@ The code in <a href=" https://github.com/tsewangstanzin/RoboticDIMM/tree/main/ob
 
 ```
 dimm.py ----
-me ----
+power_control.py ----
+best_stars.py ----
+meade_tel_control.py ---- 
+webcam_pointing_v3.py ---- 
+grabcube.py ----
+seeing_analysis.py ---- 
+read_AWS.py ----
+auto_plotter_transfer.py ---- 
+slack_bot.py ----
+
 ```
 The first part, i.e. "!dict" **is not** case sensitive.
 
