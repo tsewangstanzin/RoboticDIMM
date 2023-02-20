@@ -54,10 +54,10 @@ offline_seeing_analysis.py ---- Exploit the centroid algorithm, compute seeing a
 ```
 
 
-## 🏁 Getting Started <a name = "getting_started"></a>
+## 🏁 Prerequisites <a name = "getting_started"></a>
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
 
-### Prerequisites
+### 
 > python 3
 
 Dependencies can be installed with:
@@ -66,29 +66,6 @@ Dependencies can be installed with:
 CMOS camera API/SDK:
 > https://thinklucid.com/arena-software-development-kit/
 
-
-```
-
-
-```
-
-### Installing
-
-A step by step series of examples that tell you how to get a development env running.
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo.
 
 ## 🚀 Deploying your own bot <a name = "deployment"></a>
 ![Working](https://media.giphy.com/media/20NLMBm0BkUOwNljwv/giphy.gif)
