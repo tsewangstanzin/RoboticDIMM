@@ -14,12 +14,7 @@
 + [About](#about)
 + [Usage](#usage)
 + [Getting Started](#getting_started)
-+ [Deploying your own bot](#deployment)
-+ [Built Using](#built_using)
-+ [TODO](../TODO.md)
-+ [Contributing](../CONTRIBUTING.md)
-+ [Authors](#authors)
-+ [Acknowledgments](#acknowledgement)
++ [References](#acknowledgement)
 
 ## ✍️ About <a name = "about"></a>
 The turbulent atmospheric layers cause beam propagation disturbances that degrade the quality of astronomical images
