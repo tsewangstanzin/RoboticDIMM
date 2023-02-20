@@ -52,20 +52,7 @@ If you are interested in validating data, download image cube provided in /fitsc
 ```
 offline_seeing_analysis.py ---- Exploit the centroid algorithm, compute seeing and save log in DIMManalysis folder
 ```
-Dependencies can be installed with:
-> pip3
 
-The first part, i.e. "!dict" **is not** case sensitive.
-SDK: https://thinklucid.com/arena-software-development-kit/
-
-
-**Source:** https://www.urbandictionary.com/define.php?term=what%20is%20love
-
----
-
-<sup>Beep boop. I am a bot. If there are any issues, contact my [Master](https://www.reddit.com/message/compose/?to=PositivePlayer1&subject=/u/Wordbook_Bot)</sup>
-
-<sup>Want to make a similar reddit bot? Check out: [GitHub](https://github.com/kylelobo/Reddit-Bot)</sup>
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
@@ -75,7 +62,10 @@ These instructions will get you a copy of the project up and running on your loc
 What things you need to install the software and how to install them.
 
 ```
-Give examples
+Dependencies can be installed with:
+> pip3
+
+SDK: https://thinklucid.com/arena-software-development-kit/
 ```
 
 ### Installing
