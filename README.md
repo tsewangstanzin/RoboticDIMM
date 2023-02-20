@@ -12,7 +12,6 @@
 
 ## 📝 Table of Contents
 + [About](#about)
-+ [How it works](#working)
 + [Usage](#usage)
 + [Getting Started](#getting_started)
 + [Deploying your own bot](#deployment)
@@ -27,34 +26,9 @@ The turbulent atmospheric layers cause beam propagation disturbances that degrad
 The DIMM principle involves using the same telescope to produce twin images of a star via two entrance pupils separated by a distance. The differential method measures the angular differences over the two small pupils. 
 By using a turbulence model to determine the phase structure function, we can evaluate the longitudinal and transverse variances (parallel and perpendicular to the aperture alignment) of differential image motion
 
-## 💭 How it works <a name = "working"></a>
-
-analyze_cube.py -- <br>
-ast_utils.rb --  <br>
-binutils.py -- binary data procedures
-db_insert.py -- Inster dimm results into Sdb
-dimm_plots.py -- Old tasks for plotting results
-dimm_stats.py -- Task for calculating statistics
-east_search_gto900.py --search in east directory for stars
-find_boxes.py -- tasks for finding boxes in field 
-fix_pointing.py --  Use to manual find stars in field
-gto900_check.rb -- print the status of the telescope
-gto900_guide.rb -- 
-gto900_hackpointing.rb --
-gto900_hr.rb -- point to a star with a given hr number
-gto900_init.rb -- initialize mount
-
-The bot first extracts the word from the comment and then fetches word definitions, part of speech, example and source from the Oxford Dictionary API.
-
-If the word does not exist in the Oxford Dictionary, the Oxford API then returns a 404 response upon which the bot then tries to fetch results form the Urban Dictionary API.
-
-The bot uses the Pushshift API to fetch comments, PRAW module to reply to comments and Heroku as a server.
-
+## 💭 Usage <a name = "usage"></a>
 The entire bot is written in Python 3.6
-
-## 🎈 Usage <a name = "usage"></a>
-
-To use the bot, type:
+The :
 ```
 !dict word
 ```
