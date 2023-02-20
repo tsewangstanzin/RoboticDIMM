@@ -1,9 +1,6 @@
-<p align="center">
-  <a href="" rel="noopener">
 
+ <img width=200px height=300px class="center" src="https://user-images.githubusercontent.com/58334054/220020199-4ae158cd-f7ad-4377-8ea9-7cbd01e92eec.png" alt="Bot logo">
 
- <img width=200px height=300px class="center" src="https://user-images.githubusercontent.com/58334054/220020199-4ae158cd-f7ad-4377-8ea9-7cbd01e92eec.png" alt="Bot logo"></a>
-</p>
 
 <h3 align="center">Robotic DIMM</h3>
 
