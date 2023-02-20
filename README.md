@@ -35,7 +35,7 @@ The code in <a href=" https://github.com/tsewangstanzin/RoboticDIMM/tree/main/ob
 
 
 ```
-dimm.py ----
+<b> dimm.py ---- Only script that runs all the time. Makes sure to start ibsevation on time and imports other custom  </b>
 power_control.py ----
 best_stars.py ----
 meade_tel_control.py ---- 
