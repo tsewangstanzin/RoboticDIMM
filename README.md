@@ -74,6 +74,6 @@ CMOS camera API/SDK:
 </p>
 
 ## 🎉 References <a name = "acknowledgement"></a>
-+ Hat tip to anyone whose code was used
-+ Inspiration
++ meade.com/downloadEntityFile/assets/product_files/instructions/LX200GPS_manual.pdf
++ http://www.company7.com/library/meade/LX200CommandSet.pdf
 + References
