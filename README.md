@@ -17,7 +17,7 @@
 + [Author](#author)
 + [References](#acknowledgement)
 
-## ✍️ About <a name = "about"></a>
+## 🛠 About <a name = "about"></a>
 The turbulent atmospheric layers cause beam propagation disturbances that degrade the quality of astronomical images
 The DIMM principle involves using the same telescope to produce twin images of a star via two entrance pupils separated by a distance. The differential method measures the angular differences over the two small pupils. 
 By using a turbulence model to determine the phase structure function, we can evaluate the longitudinal and transverse variances (parallel and perpendicular to the aperture alignment) of differential image motion
@@ -62,7 +62,7 @@ CMOS camera API/SDK:
 > https://thinklucid.com/arena-software-development-kit/
 
 
-## 🛠  Author <a name = "author"></a>
+## ✍️  Author <a name = "author"></a>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
