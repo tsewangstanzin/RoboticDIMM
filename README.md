@@ -1,16 +1,10 @@
-# RoboticDIMM
-A fully automated DIMM seeing monitor is developed at the Indian Astronomical Observatory. It employs a 12 inch Meade telescope, a 72fps Lucid CMOS camera and a webcam based pointing setup. For automated/robotic operation, python scripts are running on an Adlink embedded computer.
-![Picture1](https://user-images.githubusercontent.com/58334054/202841506-8e4ac09c-830b-4802-a5a1-7524fd17fef0.png)
-
-
-
 <p align="center">
   <a href="" rel="noopener">
 
  <img width=200px height=200px src="https://user-images.githubusercontent.com/58334054/220018799-b195dfab-c431-4291-b9d3-29965c3a49dd.png" alt="Bot logo"></a>
 </p>
 
-<h3 align="center">Bot Name</h3>
+<h3 align="center">Robotic DIMM</h3>
 
 <div align="center">
 
@@ -24,7 +18,7 @@ A fully automated DIMM seeing monitor is developed at the Indian Astronomical Ob
 
 ---
 
-<p align="center"> 🤖 Few lines describing what your bot does.
+<p align="center"> 🤖 A fully automated DIMM seeing monitor is developed at the Indian Astronomical Observatory. It employs a 12 inch Meade telescope, a 72fps Lucid CMOS camera and a webcam based pointing setup. For automated/robotic operation, python scripts are running on an Adlink embedded computer.
     <br> 
 </p>
 
