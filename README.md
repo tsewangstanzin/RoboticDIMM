@@ -54,7 +54,7 @@ offline_seeing_analysis.py ---- Exploit the centroid algorithm, compute seeing a
 ```
 
 
-## 🏁 Prerequisites <a name = "getting_started"></a>
+## ⛏️ Prerequisites <a name = "getting_started"></a>
 
 ### 
 > python 3
@@ -72,7 +72,7 @@ To see an example project on how to deploy your bot, please see my own configura
 
 + **Heroku**: https://github.com/kylelobo/Reddit-Bot#deploying_the_bot
 
-## ⛏️ Built Using <a name = "built_using"></a>
+##  Built Using <a name = "built_using"></a>
 + [PRAW](https://praw.readthedocs.io/en/latest/) - Python Reddit API Wrapper
 + [Heroku](https://www.heroku.com/) - SaaS hosting platform
 
