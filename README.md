@@ -29,6 +29,20 @@ By using a turbulence model to determine the phase structure function, we can ev
 
 ## 💭 How it works <a name = "working"></a>
 
+analyze_cube.py --
+ast_utils.rb -- 
+binutils.py -- binary data procedures
+db_insert.py -- Inster dimm results into Sdb
+dimm_plots.py -- Old tasks for plotting results
+dimm_stats.py -- Task for calculating statistics
+east_search_gto900.py --search in east directory for stars
+find_boxes.py -- tasks for finding boxes in field 
+fix_pointing.py --  Use to manual find stars in field
+gto900_check.rb -- print the status of the telescope
+gto900_guide.rb -- 
+gto900_hackpointing.rb --
+gto900_hr.rb -- point to a star with a given hr number
+gto900_init.rb -- initialize mount
 
 The bot first extracts the word from the comment and then fetches word definitions, part of speech, example and source from the Oxford Dictionary API.
 
