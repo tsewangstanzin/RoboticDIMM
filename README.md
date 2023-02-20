@@ -62,7 +62,7 @@ slack_bot.py ----  Upload plot and post observation and observing condition upda
 ```
 
 ## ✍️  Author <a name = "author"></a>
-Tsewang Stanzin, Indian Astronomical Observatory, Hanle, India
+Tsewang Stanzin [Indian Astronomical Observatory, Hanle, India]
 <p align="center">
 	<a href="mailto:tstanzin.in@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/tsewangstanzin"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
