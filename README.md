@@ -35,7 +35,7 @@ The codes in <a href=" https://github.com/tsewangstanzin/RoboticDIMM/tree/main/o
 
 
 ```
-**dimm.py ---- Only script that runs all the time. Responsible for overall observation conduct. Imports other scripts given below:**
+dimm.py ---- Only script that runs all the time. Responsible for overall observation conduct. Imports other scripts given below:
 
 power_control.py ---- Control power through an Arduino based power controller
 best_stars.py ---- Select appropriate star from starcatalog.lst
