@@ -53,7 +53,7 @@ If you are interested in validating data, download image cube provided in /fitsc
 offline_seeing_analysis.py ---- Exploit the centroid algorithm, compute seeing and save log in DIMManalysis folder
 ```
 Dependencies can be installed with:
-> python3 offline_seeing_analysis.py
+> pip3
 
 The first part, i.e. "!dict" **is not** case sensitive.
 SDK: https://thinklucid.com/arena-software-development-kit/
