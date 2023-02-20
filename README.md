@@ -27,8 +27,13 @@ The DIMM principle involves using the same telescope to produce twin images of a
 By using a turbulence model to determine the phase structure function, we can evaluate the longitudinal and transverse variances (parallel and perpendicular to the aperture alignment) of differential image motion
 
 ## 💭 Usage <a name = "usage"></a>
-The entire bot is written in Python 3.6
-The :
+The entire software is written in Python 3.6
+The /obs contain code for conducting observation through this configuration (Other telescope and camera would need their API/SDK):
+<p align="center">
+    <img width="200" src="https://user-images.githubusercontent.com/58334054/220026194-015d937c-adbf-4e22-80ca-a52bc4fe3f06.png" alt="Material Bread logo">
+</p>
+
+
 ```
 dimm.py ----
 me ----
