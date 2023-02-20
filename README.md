@@ -1,5 +1,8 @@
+<div style="text-align: center;">
+  <img src="[sky.jpg](https://user-images.githubusercontent.com/58334054/220020199-4ae158cd-f7ad-4377-8ea9-7cbd01e92eec.png)" alt="Sky" style="width: 350px; height: 350px;">
+</div>
 
- <img width=200px height=300px class="center" src="https://user-images.githubusercontent.com/58334054/220020199-4ae158cd-f7ad-4377-8ea9-7cbd01e92eec.png" alt="Bot logo">
+ <img width=200px height=300px class="center" src="" alt="Bot logo">
 
 
 <h3 align="center">Robotic DIMM</h3>
