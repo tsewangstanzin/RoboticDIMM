@@ -49,10 +49,10 @@ slack_bot.py ----  Upload plot and post observation and observing condition upda
 
 ```
 If you are interested in validating data, download image cube provided in /fitscube folder and run :
-'''
+```
 offline_seeing_analysis.py ---- Exploits the centroid algorithm, computes seeing and save log in DIMManalaysis folder
 
-'''
+```
 
 The first part, i.e. "!dict" **is not** case sensitive.
 SDK: https://thinklucid.com/arena-software-development-kit/
