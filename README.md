@@ -62,7 +62,7 @@ CMOS camera API/SDK:
 > https://thinklucid.com/arena-software-development-kit/
 
 
-## 🎉 Author <a name = "author"></a>
+## 🛠  Author <a name = "author"></a>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
