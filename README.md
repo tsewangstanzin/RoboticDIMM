@@ -9,7 +9,7 @@
 
 ---
 
-<p align="center"> 🤖 A fully automated Differential Image Motion Monitor(DIMM) seeing monitor is developed at the Indian Astronomical Observatory,Hanle,India. It employs a 12 inch Meade telescope, a 52fps CMOS camera and a webcam based pointing setup. For automated/robotic operation, python scripts are running on an Adlink embedded computer.
+<p align="center"> 🤖 A Differential Image Motion Monitor(DIMM) for atmospheric seeing observation is developed at the Indian Astronomical Observatory,Hanle,India.
     <br> 
 </p>
 
