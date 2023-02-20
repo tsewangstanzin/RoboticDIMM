@@ -2,7 +2,7 @@
   <a href="" rel="noopener">
 
 
- <img width=200px height=300px src="https://user-images.githubusercontent.com/58334054/220020199-4ae158cd-f7ad-4377-8ea9-7cbd01e92eec.png" alt="Bot logo"></a>
+ <img width=200px height=300px class="center" src="https://user-images.githubusercontent.com/58334054/220020199-4ae158cd-f7ad-4377-8ea9-7cbd01e92eec.png" alt="Bot logo"></a>
 </p>
 
 <h3 align="center">Robotic DIMM</h3>
@@ -27,7 +27,12 @@
 + [Acknowledgments](#acknowledgement)
 
 ## 🧐 About <a name = "about"></a>
-Write about 1-2 paragraphs describing the purpose of your bot.
+The turbulent atmospheric layers cause beam propagation disturbances that degrade the quality of astronomical images
+The DIMM principle involves using the same telescope to produce twin images of a star via two entrance pupils separated by a distance. The differential method measures the angular differences over the two small pupils. 
+By using a turbulence model to determine the phase structure function, we can evaluate the longitudinal and transverse variances (parallel and perpendicular to the aperture alignment) of differential image motion
+![image](https://user-images.githubusercontent.com/58334054/220021135-7bc706e5-8af5-4096-80af-ebbb2c80b5a3.png)
+
+
 
 ## 🎥 Demo / Working <a name = "demo"></a>
 ![Working](https://media.giphy.com/media/20NLMBm0BkUOwNljwv/giphy.gif)
