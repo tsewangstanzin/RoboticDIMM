@@ -14,6 +14,7 @@
 + [About](#about)
 + [Usage](#usage)
 + [Prerequisites](#getting_started)
++ [Author](#author)
 + [References](#acknowledgement)
 
 ## ✍️ About <a name = "about"></a>
@@ -60,6 +61,9 @@ Dependencies can be installed with:
 CMOS camera API/SDK:
 > https://thinklucid.com/arena-software-development-kit/
 
+
+## 🎉 Author <a name = "author"></a>
+
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
 	<a href="mailto:tstanzin.in@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
@@ -68,7 +72,6 @@ CMOS camera API/SDK:
 	<a href="https://www.facebook.com/tstanzin"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
 
 </p>
-
 
 ## 🎉 References <a name = "acknowledgement"></a>
 + Hat tip to anyone whose code was used
