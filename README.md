@@ -78,7 +78,7 @@ CMOS camera API/SDK:
 + http://www.company7.com/library/meade/LX200CommandSet.pdf
 + Fried D.L., 1966, PASP, 56, 1372
 + Roddier F., 1981, Prog. Optics, 19, 281
++ Sarazin M., 2001 -http://www.eso.org/astclim/espas/iran/zanjan/zanjan02.ppt
 + Sarazin M., Tokovinin A., 2002, ESO Con. andWork. proc., 58, 231
-+ Sarazin M., 2010 - http:www.eso.org/gen-fac/pubs/astclim/papers/review00/seeing3.html
 + Tokovinin A., 2002, PASP, 114, 1156
 + Tokovinin A., Kornilov V., Shatsky N.,Voziakova O., 2003b, MNRAS, 343, 891
