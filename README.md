@@ -84,3 +84,9 @@ Tsewang Stanzin [Indian Astronomical Observatory, Hanle, India]
 + Sarazin M., Tokovinin A., 2002, ESO Con. andWork. proc., 58, 231
 + Tokovinin A., 2002, PASP, 114, 1156
 + Tokovinin A., Kornilov V., Shatsky N.,Voziakova O., 2003b, MNRAS, 343, 891
+
+<p align="center">
+    <img width="200" src="https://user-images.githubusercontent.com/58334054/220063475-b7396e5e-8b4b-4482-ad23-39633579d5bb.jpg" alt="Poster">
+</p>
+
+
