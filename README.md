@@ -13,7 +13,7 @@
 ## 📝 Table of Contents
 + [About](#about)
 + [Usage](#usage)
-+ [Getting Started](#getting_started)
++ [Prerequisites](#getting_started)
 + [References](#acknowledgement)
 
 ## ✍️ About <a name = "about"></a>
@@ -76,7 +76,7 @@ To see an example project on how to deploy your bot, please see my own configura
 
 See also the list of [contributors](https://github.com/kylelobo/The-Documentation-Compendium/contributors) who participated in this project.
 
-## 🎉 Acknowledgements <a name = "acknowledgement"></a>
+## 🎉 References <a name = "acknowledgement"></a>
 + Hat tip to anyone whose code was used
 + Inspiration
 + References
