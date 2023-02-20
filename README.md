@@ -41,7 +41,7 @@ power_control.py ---- Control power through an Arduino based power controller
 best_stars.py ---- Select appropriate star from starcatalog.lst
 meade_tel_control.py ---- Control Meade telescope
 webcam_pointing_v3.py ---- Compensate poor pointing by a webcam+100mm lens piggybacked
-grabcube.py ---- Grab cube image at fast rate from Lucid Vison CMOS Camera. SDK: https://thinklucid.com/arena-software-development-kit/
+grabcube.py ---- Grab cube image at fast rate from Lucid Vison CMOS Camera. 
 seeing_analysis.py ---- Exploit Fried parameters and Tokovin et al. DIMM model/paramaters and compute seeing
 read_AWS.py ---- Read live weather 
 auto_plotter_transfer.py ---- Plot night seeing
@@ -49,7 +49,7 @@ slack_bot.py ----  Upload plot and post observation and observing condition upda
 
 ```
 The first part, i.e. "!dict" **is not** case sensitive.
-
+SDK: https://thinklucid.com/arena-software-development-kit/
 The bot will then give you the Oxford Dictionary (or Urban Dictionary; if the word does not exist in the Oxford Dictionary) definition of the word as a comment reply.
 
 ### Example:
