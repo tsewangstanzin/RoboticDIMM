@@ -6,7 +6,7 @@
 
 ---
 
-<p align="center"> 🤖 A Differential Image Motion Monitor(DIMM) for atmospheric seeing observation is developed at the Indian Astronomical Observatory, Hanle, India.
+<p align="center"> 🤖 A Differential Image Motion Monitor(DIMM) for atmospheric seeing observation.
     <br> 
 </p>
 
