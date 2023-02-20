@@ -52,17 +52,14 @@ If you are interested in validating data, download image cube provided in /fitsc
 ```
 offline_seeing_analysis.py ---- Exploit the centroid algorithm, compute seeing and save log in DIMManalysis folder
 ```
-
-The first part, i.e. "!dict" **is not** case sensitive.
-SDK: https://thinklucid.com/arena-software-development-kit/
-The bot will then give you the Oxford Dictionary (or Urban Dictionary; if the word does not exist in the Oxford Dictionary) definition of the word as a comment reply.
-
 ### Example:
 
 > python3 offline_seeing_analysis.py
 
 **Definition:**
-
+The first part, i.e. "!dict" **is not** case sensitive.
+SDK: https://thinklucid.com/arena-software-development-kit/
+The bot will then give you the Oxford Dictionary (or Urban Dictionary; if the word does not exist in the Oxford Dictionary) definition of the word as a comment reply.
 Baby, dont hurt me~
 Dont hurt me~ no more.
 
