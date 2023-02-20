@@ -12,8 +12,8 @@
 
 ## 📝 Table of Contents
 + [About](#about)
-+ [Usage](#usage)
 + [Prerequisites](#getting_started)
++ [Usage](#usage)
 + [Author](#author)
 + [References](#acknowledgement)
 
@@ -21,6 +21,17 @@
 The turbulent atmospheric layers cause beam propagation disturbances that degrade the quality of astronomical images
 The DIMM principle involves using the same telescope to produce twin images of a star via two entrance pupils separated by a distance. The differential method measures the angular differences over the two small pupils. 
 By using a turbulence model to determine the phase structure function, we can evaluate the longitudinal and transverse variances (parallel and perpendicular to the aperture alignment) of differential image motion
+
+## ⛏️ Prerequisites <a name = "getting_started"></a>
+
+### 
+> python 3
+
+Dependencies can be installed with:
+> pip3
+
+CMOS camera API/SDK:
+> https://thinklucid.com/arena-software-development-kit/
 
 ## 💭 Usage <a name = "usage"></a>
 The entire software is written in Python 3.6 <br>
@@ -48,19 +59,6 @@ If you are interested in validating data, download image cube provided in /fitsc
 ```
 offline_seeing_analysis.py ---- Exploit the centroid algorithm, compute seeing and save log in DIMManalysis folder
 ```
-
-
-## ⛏️ Prerequisites <a name = "getting_started"></a>
-
-### 
-> python 3
-
-Dependencies can be installed with:
-> pip3
-
-CMOS camera API/SDK:
-> https://thinklucid.com/arena-software-development-kit/
-
 
 ## ✍️  Author <a name = "author"></a>
 
