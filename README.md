@@ -12,7 +12,6 @@
 
 ## 📝 Table of Contents
 + [About](#about)
-+ [Demo / Working](#demo)
 + [How it works](#working)
 + [Usage](#usage)
 + [Getting Started](#getting_started)
@@ -28,11 +27,8 @@ The turbulent atmospheric layers cause beam propagation disturbances that degrad
 The DIMM principle involves using the same telescope to produce twin images of a star via two entrance pupils separated by a distance. The differential method measures the angular differences over the two small pupils. 
 By using a turbulence model to determine the phase structure function, we can evaluate the longitudinal and transverse variances (parallel and perpendicular to the aperture alignment) of differential image motion
 
-
-## 🎥 Demo / Working <a name = "demo"></a>
-![Working](https://media.giphy.com/media/20NLMBm0BkUOwNljwv/giphy.gif)
-
 ## 💭 How it works <a name = "working"></a>
+![Working](https://media.giphy.com/media/20NLMBm0BkUOwNljwv/giphy.gif)
 
 The bot first extracts the word from the comment and then fetches word definitions, part of speech, example and source from the Oxford Dictionary API.
 
