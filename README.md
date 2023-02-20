@@ -30,7 +30,8 @@ By using a turbulence model to determine the phase structure function, we can ev
 The entire bot is written in Python 3.6
 The :
 ```
-!dict word
+dimm.py ----
+me ----
 ```
 The first part, i.e. "!dict" **is not** case sensitive.
 
