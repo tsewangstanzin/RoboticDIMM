@@ -63,8 +63,8 @@ These instructions will get you a copy of the project up and running on your loc
 Dependencies can be installed with:
 > pip3
 
-
-> SDK: https://thinklucid.com/arena-software-development-kit/
+CMOS camera API/SDK:
+> https://thinklucid.com/arena-software-development-kit/
 
 
 ```
