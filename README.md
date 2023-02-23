@@ -75,14 +75,17 @@ Tsewang Stanzin [Indian Astronomical Observatory, Hanle, India]
 
 
 ## 🎉 References <a name = "acknowledgement"></a>
++ Sarazin M., Roddier F., 1990, A&A, 227, 294
++ Tokovinin A., 2002, PASP, 114, 1156
 + https://www.meade.com/downloadEntityFile/assets/product_files/instructions/LX200GPS_manual.pdf
 + http://www.company7.com/library/meade/LX200CommandSet.pdf
 + Fried D.L., 1966, PASP, 56, 1372
 + Roddier F., 1981, Prog. Optics, 19, 281
 + Sarazin M., 2001 -http://www.eso.org/astclim/espas/iran/zanjan/zanjan02.ppt
 + Sarazin M., Tokovinin A., 2002, ESO Con. andWork. proc., 58, 231
-+ Tokovinin A., 2002, PASP, 114, 1156
 + Tokovinin A., Kornilov V., Shatsky N.,Voziakova O., 2003b, MNRAS, 343, 891
+
+![image](https://user-images.githubusercontent.com/58334054/220869807-53788b38-df49-4d3a-bf01-fbf5b2f970dc.png)
 
 
 
