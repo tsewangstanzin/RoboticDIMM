@@ -84,8 +84,3 @@ Tsewang Stanzin [Indian Astronomical Observatory, Hanle, India]
 + Sarazin M., 2001 -http://www.eso.org/astclim/espas/iran/zanjan/zanjan02.ppt
 + Sarazin M., Tokovinin A., 2002, ESO Con. andWork. proc., 58, 231
 + Tokovinin A., Kornilov V., Shatsky N.,Voziakova O., 2003b, MNRAS, 343, 891
-
-![image](https://user-images.githubusercontent.com/58334054/220869807-53788b38-df49-4d3a-bf01-fbf5b2f970dc.png)
-
-
-
