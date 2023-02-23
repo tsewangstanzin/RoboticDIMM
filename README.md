@@ -38,7 +38,7 @@ CMOS camera API/SDK:
 The entire software is written in Python 3.6 <br>
 You can analyse the data acquired from the system. Download image cube provided in /fitscube folder and run:
 ```
-offline_seeing_analysis.py ---- Exploits the centroid algorithm, compute seeing and saves log in DIMManalysis folder
+offline_seeing_analysis.py ---- Exploit the centroid algorithm, compute seeing and saves log in DIMManalysis folder
 ```
 
 On request, the codes responsible for conducting observation through this system configuration (Other telescope and camera would need their API/SDK) will be made available:
