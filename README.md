@@ -41,7 +41,7 @@ You can analyse the data acquired from the system. Download image cube provided 
 offline_seeing_analysis.py ---- Exploits the centroid algorithm, compute seeing and saves log in DIMManalysis folder
 ```
 
-On request, the codes <a href=" https://github.com/tsewangstanzin/RoboticDIMM/tree/main/obs"> /obs </a> responsible for conducting observation through this system configuration (Other telescope and camera would need their API/SDK) will be made available:
+On request, the codes responsible for conducting observation through this system configuration (Other telescope and camera would need their API/SDK) will be made available:
 
 <p align="center">
     <img width="400" src="https://user-images.githubusercontent.com/58334054/220026194-015d937c-adbf-4e22-80ca-a52bc4fe3f06.png" alt="Material Bread logo">
