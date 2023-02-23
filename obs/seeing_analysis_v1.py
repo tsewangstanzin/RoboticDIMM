@@ -35,7 +35,7 @@ class Seeing:
         '''DIMM computation constants'''
         #self.pixel_scale = 0.50077  #Basler
         #self.pixel_scale = 0.699  #Old CMOS 3by3 binning, pixel scale in arcsec.
-        self.pixel_scale = 0.233*3 # New CMOS 2by2 binning, pixel scale in arcsec.   3 is the binning
+        self.pixel_scale = 0.233*3 # New CMOS 3by3 binning, pixel scale in arcsec.   3 is the binning
         self.rd = 0.242665  # hole separation in meter
         self.d = 0.05494  # hole dia
         self.lamb = 0.5 / 1000000  # 0.65e-6   #wavelength
