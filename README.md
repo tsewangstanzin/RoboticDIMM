@@ -36,18 +36,19 @@ CMOS camera API/SDK:
 ## 💭 Usage <a name = "usage"></a>
 
 The entire software is written in Python 3.6 <br>
-If you are interested in validating data, download image cube provided in /fitscube folder and run:
+You can analyse the data acquired from the system. Download image cube provided in /fitscube folder and run:
 ```
-offline_seeing_analysis.py ---- Exploit the centroid algorithm, compute seeing and save log in DIMManalysis folder
+offline_seeing_analysis.py ---- Exploits the centroid algorithm, compute seeing and saves log in DIMManalysis folder
 ```
 
-The codes in <a href=" https://github.com/tsewangstanzin/RoboticDIMM/tree/main/obs"> /obs </a> is responsible for conducting observation through this system configuration (Other telescope and camera would need their API/SDK):
+On request, the codes <a href=" https://github.com/tsewangstanzin/RoboticDIMM/tree/main/obs"> /obs </a> responsible for conducting observation through this system configuration (Other telescope and camera would need their API/SDK) will be made available:
+
 <p align="center">
     <img width="400" src="https://user-images.githubusercontent.com/58334054/220026194-015d937c-adbf-4e22-80ca-a52bc4fe3f06.png" alt="Material Bread logo">
 </p>
 
 ```
-dimm.py ---- Only script that runs all the time. Responsible for overall observation conduct. Imports other scripts given below:
+dimm.py ---- Main script that runs all the time. Responsible for overall observation conduct. Imports other scripts given below:
 
 power_control.py ---- Control power through an Arduino based power controller
 best_stars.py ---- Select appropriate star from starcatalog.lst
