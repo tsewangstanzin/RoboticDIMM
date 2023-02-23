@@ -1,4 +1,4 @@
-If you are interested in developing a robotic DIMM seeig monitor. We would be happy top share the codes.Contact author:
+If you are interested in developing a robotic DIMM seeig monitor. We would be happy to share the codes.Contact author:
 <br>Tsewang Stanzin [Indian Astronomical Observatory, Hanle, India]
 <p align="center">
 	<a href="mailto:tstanzin.in@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
