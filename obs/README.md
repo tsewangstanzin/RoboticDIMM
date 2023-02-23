@@ -1,4 +1,3 @@
-## ✍️  Author <a name = "author"></a>
 If you are interested in developing a robotic DIMM seeig monitor. Contact author at:
 Tsewang Stanzin [Indian Astronomical Observatory, Hanle, India]
 <p align="center">
