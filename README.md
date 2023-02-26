@@ -34,7 +34,8 @@ CMOS camera API/SDK:
 > https://thinklucid.com/arena-software-development-kit/
 
 ## 💭 Usage <a name = "usage"></a>
-
+To view nightly seeing plots, visit:
+http://117.211.201.82/IAO/sky/index.php
 The entire software is written in Python 3.6 <br>
 You can analyse the data acquired from the system. Download image cube provided in /fitscube folder and run:
 ```
